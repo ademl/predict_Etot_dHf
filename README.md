@@ -45,5 +45,6 @@ Required files:
 
 Procedure:
 1. Specify list of chemical formulas in chemical_formulas.txt
+2. 
 2. Run python predict_Etot_dHf.py to generate Etot_dHf.txt with predicted
    Etot and dHf
