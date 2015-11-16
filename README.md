@@ -1,9 +1,8 @@
 # predict_Etot_dHf
 Predicts the total energies and enthalpies of formation of metal-nonmetal compounds from their composition. 
 
-Predicting Etot/dHf from Model 1
+Predicting Etot/dHf from Model 1,
 Submitted to Phys Rev B (2015)
-A.Deml
 
 This python code contains a linear model to predict the Etot, and 
 consequently dHf, of metal-nonmetal compounds from properties 
@@ -44,6 +43,6 @@ Required files:
    Provides data tables of the elemental properties used in predicting Etot and dHf.
 
 Procedure:
-1. Specify list of chemical formulas in chemical_formulas.txt
+1. Specify list of chemical formulas in chemical_formulas.txt.
 2. Run python predict_Etot_dHf.py to generate Etot_dHf.txt with predicted
-   Etot and dHf
+   Etot and dHf.
